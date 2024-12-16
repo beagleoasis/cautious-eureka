@@ -1,2 +1,3 @@
-# rich-beagle-read-me
+# 증권사 OPEN API를 이용한 자동 매수/매도 서비스 
 
+### 
