@@ -6,7 +6,7 @@
 <img src="https://github.com/beagleoasis/rich-beagle-read-me/blob/main/images/KakaoTalk_20241217_191402255.jpg?raw=true" width="250" height="300"/>
 
 ## 2. 구성
-* **안드로이드 App(Kotlin)**
+* **안드로이드 App(Kotlin, 1.9)**
   * **나의 매수 금액 관리**
     * 매수 금액/투자금 설정 조회
     * 1회 최저 매수 금액 설정
@@ -46,7 +46,7 @@
     * 조건 주문 설정 
 * **텔레그램**
   * 안드로이드 App의 요청 수신 및 전송
-* **파이썬 서버(Flask)**
+* **파이썬 서버(Flask, 3.8)**
   * **Notification REST API 서버**
   * **Scheduler**
     * 주식 잔고 내역 update
