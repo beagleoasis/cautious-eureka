@@ -21,5 +21,13 @@
   * Telegram Message Reader
  
 ## 3. 대표 기능 
+* Telegram 서버
+* 자체 제작 한국투자증권 OpenAPI 라이브러리
+* 방어 로직
+  * 안전 매도
+  * 투자금 대비 비율 보정
 
+## 4. 트러블 슈팅
+* REST API & Scheduler 간 동시성 문제
+* 안드로이드 알림 MQ
 
