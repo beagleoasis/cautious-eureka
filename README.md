@@ -45,7 +45,7 @@
     * 조건 주문 MODE ON/OFF
     * 조건 주문 설정 
 * **텔레그램**
-  * 안드로이드 App의 요청 수신
+  * 안드로이드 App의 요청 수신 및 전송
 * **파이썬 서버(Flask)**
   * **Notification REST API 서버**
   * **Scheduler**
