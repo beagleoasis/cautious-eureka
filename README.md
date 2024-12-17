@@ -43,11 +43,15 @@
     * 조건 주문 MODE ON/OFF
     * 조건 주문 설정 
 * 텔레그램
-  * 안드로이드 App의 요청 수신, 플라스크 서버로 전송
+  * 안드로이드 App의 요청 수신
 * 파이썬 서버(Flask)
   * Notification REST API 서버
   * Scheduler
+    * 주식 잔고 내역 update
+    * 안전 매도
+    * 양전 알림
   * Telegram Message Reader
+    * 텔레그램 메시지 기반 REST API 전송
  
 ## 3. 대표 기능 
 * Telegram 서버
