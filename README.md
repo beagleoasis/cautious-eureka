@@ -3,7 +3,7 @@
 ## 1. 프로젝트 : Rich Beagle
 * 증권사 커뮤니티 기능과 OPEN API를 이용한 자체 제작 주식 자동 매수/매도 서비스
 
-<img src="" width="250" height="300"/>
+<img src="https://github.com/beagleoasis/rich-beagle-read-me/blob/main/images/KakaoTalk_20241217_191402255.jpg?raw=true" width="250" height="300"/>
 
 ## 2. 구성
 * **안드로이드 App(Kotlin)**
